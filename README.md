@@ -1,5 +1,4 @@
 # sonar-coverage-example-java
-#Test GitHub webhook
 
 You can set up code coverage with [SonarQube](https://www.sonarqube.org/).
 
